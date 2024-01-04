@@ -1,6 +1,6 @@
 {
-  "display_name": "Java, JUnit-Sqlite",
-  "image_name": "cyberdojofoundation/java_junit_sqlite:ae2ece3",
+  "display_name": "Java 21, JUnit 4 - SQLite 3.44",
+  "image_name": "cyberdojofoundation/java_junit_sqlite:dd3e6e7",
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",
