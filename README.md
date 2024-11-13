@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/java-sqlite.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/java-sqlite)
+[![Github Action (main)](https://github.com/cyber-dojo-start-points/java-sqlite/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/java-sqlite/actions)
 
-### display_name="Java 21, JUnit 4 - SQLite 3.44"
-### image_name="[cyberdojofoundation/java_junit_sqlite](https://hub.docker.com/repository/docker/cyberdojofoundation/java_junit_sqlite)"
+### display_name="Java 21, JUnit 4 - SQLite 3.47"
+### image_name="[ghcr.io/cyber-dojo-languages/java_junit_sqlite](https://github.com/cyber-dojo-languages/java-sqlite/pkgs/container/java_junit_sqlite)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
