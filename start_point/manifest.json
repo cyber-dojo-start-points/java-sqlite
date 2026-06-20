@@ -1,5 +1,13 @@
 {
   "display_name": "Java 21, JUnit 4 - SQLite 3.47",
+  "language": [
+    "Java",
+    "21"
+  ],
+  "test_framework": [
+    "SQLite, JUnit",
+    "3.47, 4"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/java_junit_sqlite:eb414ab",
   "visible_filenames": [
     "HikerTest.java",
