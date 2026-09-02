@@ -1,19 +1,20 @@
 {
-  "display_name": "Java 21, JUnit 4 - SQLite 3.47",
+  "display_name": "Java 26.0.2.1, JUnit 4 - SQLite 3.53",
   "language": [
     "Java",
-    "21"
+    "26.0.2.1"
   ],
   "test_framework": [
     "SQLite, JUnit",
-    "3.47, 4"
+    "3.53, 4"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_junit_sqlite:eb414ab",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_junit_sqlite:30d54e5",
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".java"
   ],
