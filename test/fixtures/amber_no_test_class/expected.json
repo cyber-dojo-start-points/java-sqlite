@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^ls: cannot access '\\*Test\\*\\.class': No such file or directory$": 1,
+    "^OK \\(0 tests\\)$": 1,
+    "^Tests run: ": 0,
+    "^FAILURES!!!$": 0
+  }
+}

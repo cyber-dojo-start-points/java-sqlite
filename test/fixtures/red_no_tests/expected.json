@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^1\\) initializationError\\(HikerTest\\)$": 1,
+    "^  1\\. No runnable methods$": 1,
+    "^FAILURES!!!$": 1,
+    "^Tests run: 1, +Failures: 1$": 1,
+    "^OK \\(": 0
+  }
+}
