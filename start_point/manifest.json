@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 27, JUnit 4.13.2 - SQLite 3.54.1.0",
+  "display_name": "Java 27.0.1.0.3, JUnit 4.13.2 - SQLite 3.54.1.0",
   "language": [
     "Java",
-    "27"
+    "27.0.1.0.3"
   ],
   "test_framework": [
     "SQLite, JUnit",
     "3.54.1.0, 4.13.2"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_junit_sqlite:b1323f8@sha256:78e06f789dacf8690342beade407b3ce681b3a7677697075270ec0f4ed2b05c6",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_junit_sqlite:925ab34@sha256:40cdd420046755ba0b1f10ebcb9cf4a29899699f6b45fb0d7c9b0ddba036e88c",
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",
